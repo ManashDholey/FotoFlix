@@ -1,0 +1,17 @@
+.search{
+  position: relative;
+}
+#myInput {
+  /* background-image: url('./assets/search.png');
+  background-repeat: no-repeat;
+  background-position: left center; */
+  background-size: 30px;
+  width: 100%;
+  font-size: 16px;
+  padding: 22px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+} 
+.submit-btn{
+  position: absolute;
+}
